@@ -1,4 +1,4 @@
-________DC Circut Solver_________
+#____________________________________DC Circut Solver________________________________________
 
 It is a free program to solve problems of DC circuits and can be utilied by students taking subjects
 like Electric Circut Analysis. The program has a lot of features and proper guidance is provided inside

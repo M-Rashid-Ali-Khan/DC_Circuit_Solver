@@ -9,8 +9,12 @@ of that option. Rest of the procedure is documented inside the program.
 <p align="center">
   <img src="https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Interface.png" />
 </p>
-
-![Interface](https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Interface.png)
-![Capacitance](https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/capacitance.png)
-![Thevenien](https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Thevenein.png)
-![Filter](https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Filter.png)
+<p align="center">
+  <img src="https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/capacitance.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Thevenein.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/M-Rashid-Ali-Khan/DC_Circuit_Solver/blob/main/Filter.png" />
+</p>
